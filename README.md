@@ -21,7 +21,8 @@ The following modules are used in this project:
 
 ## Sample Video
 
-- [Sample Input Video](https://example.com/sample_video.mp4)
+- [Sample Input Video]([Sample Input Video](https://drive.google.com/file/d/1TBGUeNA5QaGW5bWzzxo3WvjXElYML4y6/view?usp=sharing)
+)
 ## Requirements  
 
 To run this project, you need to have the following dependencies installed:  
