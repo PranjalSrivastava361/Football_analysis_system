@@ -21,5 +21,22 @@ The following modules are used in this project:
 
 ## Sample Video
 
-- [Sample Input Video](https://example.com/sample_video.mp4)  
+- [Sample Input Video](https://example.com/sample_video.mp4)
+## Requirements  
+
+To run this project, you need to have the following dependencies installed:  
+
+- Python 3.x  
+- ultralytics  
+- supervision  
+- OpenCV  
+- NumPy  
+- Matplotlib  
+- Pandas  
+
+You can install them using:  
+
+```bash
+pip install -r requirements.txt
+
 
